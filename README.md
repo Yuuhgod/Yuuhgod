@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou [Yuri Gomes]  
+# 👋 Olá! Eu sou Yuri Gomes.  
 
 ## 🚀 Sobre mim  
 Sou um profissional de DevOps apaixonado por automação, infraestrutura como código e segurança. Trabalho diariamente com ferramentas e práticas que garantem a entrega contínua e a escalabilidade de aplicações.  
