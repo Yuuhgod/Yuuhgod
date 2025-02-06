@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá! Eu sou [Yuri Gomes]  
 
-<!--
-**Yuuhgod/Yuuhgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim  
+Sou um profissional de DevOps apaixonado por automação, infraestrutura como código e segurança. Trabalho diariamente com ferramentas e práticas que garantem a entrega contínua e a escalabilidade de aplicações.  
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e Ferramentas  
+- ☁️ **Cloud:** Azure | GCP  
+- 🐳 **Containers:** Docker | Kubernetes  
+- 🏗 **IaC:** Ansible | Helm  
+- 🔄 **CI/CD:** Azure DevOps  
+- 🛡 **Segurança:** Dependency Check | Keycloak | SonarQube
+- 🗄 **Banco de Dados:** PostgreSQL | MySQL | MinIO  
+- 📜 **Logging & Monitoring:** ELK | Prometheus | Grafana | Loki
+- 🖥 **Sistemas Operacionais:** Linux | Windows  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 O que estou estudando?  
+Atualmente, estou aprofundando meus conhecimentos em segurança de aplicações, análise de vulnerabilidades e governança de TI.  
+
+## 📫 Como me encontrar?  
+- LinkedIn: [www.linkedin.com/in/yuri-davi-de-melo-gomes](#)  
+- GitHub: [https://github.com/Yuuhgod](#)  
+
+✨ Sempre aberto a novos desafios e oportunidades! Vamos conversar.  
