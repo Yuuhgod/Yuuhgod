@@ -7,7 +7,7 @@ Sou um profissional de DevOps apaixonado por automação, infraestrutura como c�
 - ☁️ **Cloud:** Azure | GCP  
 - 🐳 **Containers:** Docker | Kubernetes  
 - 🏗 **IaC:** Ansible | Helm  
-- 🔄 **CI/CD:** Azure DevOps  
+- 🔄 **CI/CD:** Azure DevOps | ArgoCD
 - 🛡 **Segurança:** Dependency Check | Keycloak | SonarQube
 - 🗄 **Banco de Dados:** PostgreSQL | MySQL | MinIO  
 - 📜 **Logging & Monitoring:** ELK | Prometheus | Grafana | Loki
